@@ -1,6 +1,5 @@
 # Attiny85
-Accessing Inputs, Outputs, EEPROM
-LED Brightness Adjuster
+LED Brightness Adjuster - Accessing Inputs, Outputs, EEPROM
 - Tactile switch 1 for increasing LED brightness
 - Tactile switch 2 for decreasing LED brightness
 - Brighness levels will be having 5 steps
