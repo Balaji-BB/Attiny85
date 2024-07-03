@@ -1,0 +1,6 @@
+Tactile switch 1 (Increase Brightness) - Pin 7
+Tactile switch 2 (Decrease Brightness) - Pin 2
+Indication LED - Pin 6
+Actual brightness varying LED - Pin 0
+Power Supply - Pin 8
+Ground - Pin 4
